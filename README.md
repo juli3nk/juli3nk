@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Github's Stats](https://github-readme-stats.vercel.app/api?username=juli3nk&hide=issues&count_private=true&show_icons=true&text_color=008080&icon_color=008080&title_color=008080)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juli3nk&hide=vim%20script,css&layout=compact)
+
 <!--
 **juli3nk/juli3nk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
