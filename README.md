@@ -1,112 +1,33 @@
-## :hammer_and_wrench: Technologies and Tools I use
 
-<p align="left">
-  <table>
-    <tr>
-      <td>Cloud</td>
-      <td>
-        <a target="_blank" href="https://github.com/juli3nk?tab=repositories&q=topic%3Aaws">
-          <img src="https://img.shields.io/badge/AWS-blue?logo=amazon&logoColor=white" />
-        </a>
-        <a target="_blank" href="https://github.com/juli3nk?tab=repositories&q=topic%3Acloudflare">
-          <img src="https://img.shields.io/badge/Cloudflare-blue?logo=cloudflare&logoColor=white" />
-        </a>
-        <a target="_blank" href="https://github.com/juli3nk?tab=repositories&q=topic%3Ainfomaniak">
-          <img src="https://img.shields.io/badge/Infomaniak-blue?logo=infomaniak&logoColor=white" />
-        </a>
-        <a target="_blank" href="https://github.com/juli3nk?tab=repositories&q=topic%3Aovh">
-          <img src="https://img.shields.io/badge/OVH-blue?logo=ovh&logoColor=white" />
-        </a>
-      </td>
-      <td><a target="_blank" href="https://github.com/juli3nk?tab=repositories&q=topic%3Aiac">IaC</a></td>
-      <td>
-        <a target="_blank" href="https://github.com/juli3nk?tab=repositories&q=topic%3Aterraform">
-          <img src="https://img.shields.io/badge/Terraform-blue?logo=terraform&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>OS</td>
-      <td>
-        <a target="_blank" href="https://github.com/juli3nk?tab=repositories&q=topic%3Adebian">
-          <img src="https://img.shields.io/badge/Debian-blue?logo=debian&logoColor=white" />
-        </a>
-        <a target="_blank" href="https://github.com/juli3nk?tab=repositories&q=topic%3Anixos">
-          <img src="https://img.shields.io/badge/NixOS-blue?logo=nixos&logoColor=white" />
-        </a>
-      </td>
-      <td>Configuration Management</td>
-      <td>
-        <a target="_blank" href="https://github.com/orgs/kassisol/repositories?q=topic%3Apuppet">
-          <img src="https://img.shields.io/badge/Puppet-blue?logo=puppet&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>Container</td>
-      <td>
-        <a target="_blank" href="https://github.com/juli3nk?tab=repositories&q=topic%3Adocker">
-          <img src="https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white" />
-        </a>
-        <a target="_blank" href="https://github.com/juli3nk?tab=repositories&q=topic%3Akubernetes">
-          <img src="https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&logoColor=white" />
-        </a>
-        <a target="_blank" href="https://github.com/juli3nk?tab=repositories&q=topic%3Ak3s">
-          <img src="https://img.shields.io/badge/K3S-blue?logo=k3s&logoColor=white" />
-        </a>
-      </td>
-      <td><a target="_blank" href="https://github.com/juli3nk?tab=repositories&q=topic%3Aci">CI</a></td>
-      <td>
-        <a target="_blank" href="https://github.com/juli3nk?tab=repositories&q=topic%3Agithub">
-          <img src="https://img.shields.io/badge/Github-blue?logo=github&logoColor=white" />
-        </a>
-        <a target="_blank" href="https://github.com/juli3nk?tab=repositories&q=topic%3Agitlab">
-          <img src="https://img.shields.io/badge/Gitlab-blue?logo=gitlab&logoColor=white" />
-        </a>
-        <a target="_blank" href="https://github.com/juli3nk?tab=repositories&q=topic%3Adagger">
-          <img src="https://img.shields.io/badge/Dagger-blue?logo=dagger&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td><a target="_blank" href="https://github.com/juli3nk?tab=repositories&q=topic%3Amonitoring">Monitoring</a></td>
-      <td>
-        <a target="_blank" href="https://github.com/juli3nk?tab=repositories&q=topic%3Aprometheus">
-          <img src="https://img.shields.io/badge/Prometheus-blue?logo=prometheus&logoColor=white" />
-        </a>
-        <a target="_blank" href="https://github.com/juli3nk?tab=repositories&q=topic%3Agrafana">
-          <img src="https://img.shields.io/badge/Grafana-blue?logo=grafana&logoColor=white" />
-        </a>
-      </td>
-      <td><a target="_blank" href="https://github.com/juli3nk?tab=repositories&q=topic%3Acd">CD</a></td>
-      <td>
-        <a target="_blank" href="https://github.com/juli3nk?tab=repositories&q=topic%3Afluxcd">
-          <img src="https://img.shields.io/badge/FluxCD-blue?logo=flux&logoColor=white" />
-        </a>
-        <a target="_blank" href="https://github.com/juli3nk?tab=repositories&q=topic%3Aargocd">
-          <img src="https://img.shields.io/badge/ArgoCD-blue?logo=argo&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>Language</td>
-      <td>
-        <a target="_blank" href="https://github.com/juli3nk?tab=repositories&q=topic%3Ago">
-          <img src="https://img.shields.io/badge/Golang-blue?logo=go&logoColor=white" />
-        </a>
-        <a target="_blank" href="https://github.com/juli3nk?tab=repositories&q=topic%3Apython">
-          <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" />
-        </a>
-      </td>
-      <td>Package</td>
-      <td>
-        <a target="_blank" href="https://github.com/juli3nk?tab=repositories&q=topic%3Ahelm">
-          <img src="https://img.shields.io/badge/Helm-blue?logo=helm&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
+> Infrastructure I can reason about.
 
-![Github's Stats](https://github-readme-stats.vercel.app/api?username=juli3nk&hide=issues&count_private=true&show_icons=true&text_color=008080&icon_color=008080&title_color=008080)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juli3nk&hide=vim%20script,css&layout=compact)
+---
+
+## Products
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[memoria](https://github.com/juli3nk/memoria)** | Sovereign knowledge base for human and AI agent collaboration. Markdown as source of truth, Git for audit, SQLite for search, MCP server for agents. | Go, React, OIDC, FTS5 |
+| **[podcd](https://github.com/juli3nk/podcd)** | GitOps controller for single Linux nodes via native systemd units. No Kubernetes required. | Go, systemd |
+| **[dotfiles](https://github.com/juli3nk/dotfiles)** | Profile-based dotfiles manager with templating and symlinks. | Go |
+| **[daggerverse](https://github.com/juli3nk/daggerverse)** | Reusable Dagger modules and toolchains for CI automation. | Go, Dagger |
+
+---
+
+## Stack
+
+| Layer | Technology |
+|-------|------------|
+| **Language** | Go |
+| **Desktop** | NixOS + Sway ([nixos-modules](https://github.com/juli3nk/nixos-modules)) |
+| **Servers** | Debian + Ansible ([system](https://github.com/juli3nk/ansible-collection-system), [container](https://github.com/juli3nk/ansible-collection-container), [ai](https://github.com/juli3nk/ansible-collection-ai)) |
+| **CI** | Dagger toolchains, GoReleaser |
+
+---
+
+## Principles
+
+- **Provider-agnostic**: No cloud or vendor lock-in
+- **Self-hosted**: Own the data, own the system
+- **Composable**: Tools over frameworks
+- **Declarative**: Git-tracked, reproducible infrastructure
